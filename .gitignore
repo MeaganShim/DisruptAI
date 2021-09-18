@@ -1,0 +1,6 @@
+virtualenv
+*.pyc
+*.pyman
+*.pyo
+__pycache__
+app/__pycache__
